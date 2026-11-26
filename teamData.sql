@@ -25,9 +25,9 @@ VALUES
      ('Manchester City', 'Etihad Stadium', 'Manchester, England'),
      ('Manchester United', 'Old Trafford', 'Manchester, England'),
      ('Newcastle United', 'St James'' Park', 'Newcatle, England'),
-     ('Nottinham Forest', 'City Ground', 'Nottingham, England'),
+     ('Nottingham Forest', 'City Ground', 'Nottingham, England'),
      ('Sunderland', 'Stadium of Light', 'Sunderland, England'),
      ('Tottenham Hotspur', 'Tottenham Hotspur stadium', 'London, England')
 
-SELECT * 
-FROM [dbo].[PremTeams];
+"""SELECT * 
+FROM [dbo].[PremTeams];"""
